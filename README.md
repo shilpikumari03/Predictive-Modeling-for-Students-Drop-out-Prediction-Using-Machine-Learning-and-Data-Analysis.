@@ -47,6 +47,8 @@ Our approach is to minimize false negatives (FNs) to the greatest extent possibl
 ## Results and Conclusion
 
 Through comprehensive data analysis and model training, this project provides insights into identifying students at risk of dropping out from higher education institutions. By leveraging machine learning techniques, we have developed an effective binary classification model capable of distinguishing potential dropouts from enrolled students. Our analysis includes two distinct cases, emphasizing the importance of student academic performance data in achieving better predictive accuracy.
+![image](https://github.com/shilpikumari03/Predictive-Modeling-for-Students-Drop-out-Prediction-Using-Machine-Learning-and-Data-Analysis./assets/137021374/5ad870bd-e014-4dc4-8ad0-6bc4d07c922c)
+
 
 The Neural Network model emerges as the top-performing model, exhibiting a recall score of 79.4%, which implies that the model can accurately identify close to 80 out of 100 potential dropout students. This predictive capability offers universities a valuable tool for implementing timely interventions and support measures to retain at-risk students. The simplicity and low cost of this approach make it an appealing solution with significant potential to positively impact both students and institutions.
 
